@@ -64,7 +64,9 @@ with the loose coupling of the second choice.  **Now consumers of the addon don'
 
 ### Installation
 
+```
 ember install ember-block-slots
+```
 
 ### Usage
 
